@@ -10,11 +10,13 @@ The purpose of this repository is to show how a simple LLM-generated model can b
 
 ## Files in This Repository
 
+```text
 models/
 ├── 01_naive_model.nlogo
 ├── 02_probabilistic_extension.nlogo
 ├── 03_agent_profiles_extension.nlogo
 └── 04_network_influence_extension.nlogo
+```
 
 ## NetLogo Models Included
 
