@@ -140,9 +140,9 @@ If you use this repository, please cite the related book chapter:
 
 ## Authors
 
-Burak Can
-Mohsen Pourpouneh
-Serdar Türkeli
+- Burak Can — Maastricht University
+- Mohsen Pourpouneh — Maastricht University
+- Serdar Türkeli — Maastricht University
 
 ## Disclaimer
 
